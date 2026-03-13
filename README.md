@@ -14,5 +14,10 @@ extension/
 - [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116)
 - https://securitytxt.org/
 
+----
+
+If you'd like to use this - feel free! If you'd like to modify or build upon it - that's welcome as well.
+However, it would be greatly appreciated if you could properly credit `mbiesiad`.
+
  ## Disclaimer
 For educational and defensive purposes only. 
