@@ -21,6 +21,10 @@ extension/
 If you'd like to use this - feel free! If you'd like to modify or build upon it - that's welcome as well.
 However, it would be greatly appreciated if you could properly credit `mbiesiad`.
 
+## 🤝 Contributing
+Contributions and pull requests are welcome!
+If you find a bug or have an idea for improvement, please open an [issue](https://github.com/mbiesiad/security-txt-checker/issues).
+
 ## 📜 License
 
 This project is licensed under the MIT License - see [LICENSE](https://github.com/mbiesiad/security-txt-checker/blob/main/LICENSE) for details.
