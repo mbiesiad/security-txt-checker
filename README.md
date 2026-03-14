@@ -11,6 +11,11 @@ extension/
  └── popup.js
 ```
 
+## 💬 Motivation
+
+The security.txt standard helps security researchers and companies communicate safely about vulnerabilities.
+This extension makes it one click easier to check whether a website has a disclosure policy or bug bounty program.
+
 ## Useful resources
 - [Security.txt](https://en.wikipedia.org/wiki/Security.txt)
 - [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116)
