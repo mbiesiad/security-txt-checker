@@ -21,5 +21,9 @@ extension/
 If you'd like to use this - feel free! If you'd like to modify or build upon it - that's welcome as well.
 However, it would be greatly appreciated if you could properly credit `mbiesiad`.
 
+## 📜 License
+
+This project is licensed under the MIT License - see [LICENSE](https://github.com/mbiesiad/security-txt-checker/blob/main/LICENSE) for details.
+
  ## Disclaimer
 For educational and defensive purposes only. 
