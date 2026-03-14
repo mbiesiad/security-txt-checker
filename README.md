@@ -11,6 +11,10 @@ extension/
  └── popup.js
 ```
 
+## 📸 Screenshots
+E.g. popup view and icon states.
+
+
 ## 💬 Motivation
 
 The security.txt standard helps security researchers and companies communicate safely about vulnerabilities.
