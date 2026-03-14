@@ -2,6 +2,8 @@
 
 A simple, privacy-friendly browser extension that checks whether a visited website publishes a security.txt (RFC 9116) file - a standard for [vulnerability disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure) and [bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) contact information.
 
+No tracking, no telemetry, no analytics - everything runs locally in your browser.
+
 ---
 
 ## 🚀 Features
