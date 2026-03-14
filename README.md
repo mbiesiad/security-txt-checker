@@ -9,7 +9,7 @@ No tracking, no telemetry, no analytics - everything runs locally in your browse
 ## 🚀 Features
 
 - ✅ Checks both **`/.well-known/security.txt`** and **`/security.txt`** automatically  
-- 🟢 **"HAVE"** (found) or 🔴 **"NO"** (not found) indicator on the toolbar icon  
+- 🟢 **"YES"** (found) or 🔴 **"NO"** (not found) indicator on the toolbar icon  
 - 🔍 Manual check - works only when you click the extension icon (no background requests!)  
 - 🔗 Shows detected URLs and quick link to the file  
 - ⚙️ Works in **Chrome**, **Brave**, and **Firefox**  
