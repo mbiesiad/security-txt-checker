@@ -46,6 +46,18 @@ This extension makes it one click easier to check whether a website has a disclo
 5. Select this folder.
 6. Done - the icon should appear in your toolbar!
 
+## 🧠 How It Works
+When you click the extension icon, it:
+
+1. Extracts the domain (origin) of your current tab.
+2. Fetches:
+ - https://example.com/.well-known/security.txt
+ - https://example.com/security.txt
+3. If either exists (HTTP 200-399), the icon turns green and the file link appears in the popup.
+4. Otherwise, it turns red.
+
+No tracking, no telemetry, no analytics - everything runs locally in your browser.
+
 ## Useful resources
 - [Security.txt](https://en.wikipedia.org/wiki/Security.txt)
 - [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116)
