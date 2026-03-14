@@ -64,7 +64,7 @@ async function handleTab(tabId, pageUrl) {
 
     // set badge for current tab
     if (result.found) {
-      chrome.action.setBadgeText({ text: 'HAVE', tabId });
+      chrome.action.setBadgeText({ text: 'YES', tabId });
       chrome.action.setBadgeBackgroundColor({ color: [0, 153, 51], tabId });
     } else {
       chrome.action.setBadgeText({ text: 'NO', tabId });
