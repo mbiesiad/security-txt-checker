@@ -2,6 +2,16 @@
 
 A simple, privacy-friendly browser extension that checks whether a visited website publishes a security.txt (RFC 9116) file - a standard for [vulnerability disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure) and [bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program) contact information.
 
+---
+
+## 🚀 Features
+
+- ✅ Checks both **`/.well-known/security.txt`** and **`/security.txt`** automatically  
+- 🟢 **"HAVE"** (found) or 🔴 **"NO"** (not found) indicator on the toolbar icon  
+- 🔍 Manual check - works only when you click the extension icon (no background requests!)  
+- 🔗 Shows detected URLs and quick link to the file  
+- ⚙️ Works in **Chrome**, **Brave**, and **Firefox**  
+
 ## File structure
 ```
 extension/
