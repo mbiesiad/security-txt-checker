@@ -30,6 +30,22 @@ E.g. popup view and icon states.
 The security.txt standard helps security researchers and companies communicate safely about vulnerabilities.
 This extension makes it one click easier to check whether a website has a disclosure policy or bug bounty program.
 
+## 🔧 Installation (Developer Mode)
+
+1. Clone or download this repository 
+
+`git clone https://github.com/mbiesiad/security-txt-checker.git`
+
+2. Open your browser’s extensions page:
+
+- Chrome/Brave: `chrome://extensions/`
+- Firefox: `about:debugging#/runtime/this-firefox`
+
+3. Enable Developer Mode (toggle in the top right).
+4. Click "Load unpacked" (or "Load Temporary Add-on" in Firefox + Select the manifest.json file).
+5. Select this folder.
+6. Done - the icon should appear in your toolbar!
+
 ## Useful resources
 - [Security.txt](https://en.wikipedia.org/wiki/Security.txt)
 - [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116)
