@@ -26,6 +26,15 @@ extension/
 ## 📸 Screenshots
 E.g. popup view and icon states.
 
+![img1](https://github.com/mbiesiad/security-txt-checker/blob/main/img/img1.png)
+
+![img2](https://github.com/mbiesiad/security-txt-checker/blob/main/img/img2.png)
+
+![img3](https://github.com/mbiesiad/security-txt-checker/blob/main/img/img3.png)
+
+![img4](https://github.com/mbiesiad/security-txt-checker/blob/main/img/img4.png)
+
+Sources are shown in the screenshots; status as of this commit: 2026-[03-14](https://en.wikipedia.org/wiki/Pi_Day) (Pi Day!).
 
 ## 💬 Motivation
 
