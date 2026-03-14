@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Security.txt (RFC 9116) Checker",
+  "version": "0.1.0",
+  "description": "Checks if the page has /.well-known/security.txt or /security.txt and shows the badge in the toolbar.",
+  "permissions": ["storage", "tabs", "scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
