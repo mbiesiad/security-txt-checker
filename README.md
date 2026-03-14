@@ -32,6 +32,10 @@ E.g. popup view and icon states.
 The security.txt standard helps security researchers and companies communicate safely about vulnerabilities.
 This extension makes it one click easier to check whether a website has a disclosure policy or bug bounty program.
 
+When I originally wrote this extension, there were very few alternatives (if any). Here you can inspect the code and see exactly how it works - I decided to release it as open source. Enjoy and happy hunting!
+
+I've since improved and refined it, and I have several other, better and more interesting extensions as well - so stay tuned.
+
 ## 🔧 Installation (Developer Mode)
 
 1. Clone or download this repository 
