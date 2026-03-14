@@ -35,7 +35,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
       // security.txt found
       el.innerHTML = `
         <div style="color:green;font-weight:bold">✅ security.txt FOUND</div>
-        <div><a href="${entry.finalUrl}" target="_blank" rel="noopener">${entry.finalUrl}</a></div>
+        <div><a href="${entry.finalUrl}" target="_blank" rel="noopener noreferrer">${entry.finalUrl}</a></div>
         <details style="margin-top:8px">
           <summary>Content preview</summary>
           <pre>${escapeHtml(entry.content.substring(0, 1000))}</pre>
